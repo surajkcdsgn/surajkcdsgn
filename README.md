@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I;m Suraj Khatri 👋</h1>
+<h1 align="center">Hi, I'm Suraj Khatri 👋</h1>
 <h3 align="center"> Frontend and Backend Developer specializing in interactive React frontend interfaces, <br>robust Python backend architecture, and efficient database design.</h3>
 
 -----
