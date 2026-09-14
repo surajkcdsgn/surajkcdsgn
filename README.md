@@ -2,7 +2,12 @@
 <h3 align="center"> Frontend and Backend Developer specializing in interactive React frontend interfaces, <br>robust Python backend architecture, and efficient database design.</h3>
 
 -----
- 
+## 🌐 Portfolio
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-surajkc1.com.np-blue?style=for-the-badge)](https://surajkc1.com.np)
+
+-----
+
 ### 🚀 About Me
 **Frontend and Backend Developer passionate about building modern, responsive, and scalable web applications. I work across the full development stack — from interactive React interfaces to robust Python backends, REST APIs, authentication systems, and database design.**
 
